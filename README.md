@@ -8,12 +8,12 @@ Daily sales trends with line chart
 Return analysis by Customer Type
 Filters for Region and Category
 
-📊 Tools Used
+Tools Used
 Power BI
 Excel
 Data modeling (1:M relationships)
 DAX (for KPIs & insights)
 
-👩‍💻 Author
+ Author
 Samaira Arora
-📧 samairaarorak22@gmail.com
+ samairaarorak22@gmail.com
