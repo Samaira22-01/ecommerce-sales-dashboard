@@ -1,19 +1,22 @@
-E-commerce Sales Dashboard – Power BI
-This project is a fully interactive Power BI dashboard built using normalized e-commerce data (Orders & OrderDetails).
+#  E-commerce Sales Dashboard – Power BI
 
- Features
-KPI Card: ₹5.7L+ total sales
-Sales by Product Category and Region
-Daily sales trends with line chart
-Return analysis by Customer Type
-Filters for Region and Category
+This project is a professional Power BI dashboard built to analyze sales, returns, and customer behavior using simulated e-commerce data.
 
-Tools Used
-Power BI
-Excel
-Data modeling (1:M relationships)
-DAX (for KPIs & insights)
+##  Features
+- ₹5.7L+ in total order value analyzed
+- Sales by product category and region
+- Daily sales trends with line graph
+- Return rates by customer type (new vs returning)
+- Interactive filters (slicers) for product category and region
+- KPI card for total revenue
 
- Author
-Samaira Arora
- samairaarorak22@gmail.com
+##  Tools & Tech
+- Power BI
+- Excel
+- Data Modeling (1:M relationships)
+- DAX (for calculations & KPIs)
+
+##  Author
+   Samaira Arora  
+ samairaarorak22@gmail.com  
+
